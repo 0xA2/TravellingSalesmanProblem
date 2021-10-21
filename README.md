@@ -1,2 +1,3 @@
 # TravellingSalesmanProblem
-Implementation of local search methods that search for a possible TSP solutions for a random set of points
+
+Implementation of local search methods that output a possible TSP solution for a random set of points
